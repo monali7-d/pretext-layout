@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:x.com)",
+      "WebFetch(domain:chenglou.me)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(npm init:*)",
+      "Bash(export PATH=\"/opt/homebrew/bin:/usr/local/bin:$HOME/.bun/bin:$HOME/.nvm/versions/node/*/bin:$PATH\")",
+      "Bash(export PATH=\"/opt/homebrew/bin:$PATH\")",
+      "Bash(npm install:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(gh auth:*)"
+    ]
+  }
+}
